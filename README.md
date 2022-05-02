@@ -1,15 +1,15 @@
 # gta5-solo
 Creates a solo lobby for gta 5 on pc
 
-# quick summary
+# Quick summary
 
 Just a quick and poorly written bash/python script that times your gta 5 online session out long enough to be in your own lobby.
 Personally I find it easier to simply run a command that pauses/resumes the game rather then right clicking the process in my desktops
 process manager.
 
 # Requirements
-GNU/Linux only
-Fedora 35 (tested)
+- GNU/Linux only
+- Fedora 35 (tested)
 
 Should work on any distro that includes python 3 and standard unix commands (awk, grep, ps, kill).
 
