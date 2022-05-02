@@ -21,7 +21,9 @@ Simply run solo.sh from a terminal and wait for completion. It should pause gta 
 Simply rerun if you find it putting other people in your empty lobby or merged you into another lobby.
 
 
-# important notes
+# Important notes
 
 - You may need to run solo.sh a couple times as for whatever reason sometimes it doesn't split you off into your own lobby.
 - I've only tested this on Fedora (my main distro) with steam version of gta 5.
+- The code may or may not work with rdo if you replace "GTA5.exe" with the rdo binary filename. Haven't bothered to play rdo
+for more then 5 min before I got bored.
