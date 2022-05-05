@@ -26,7 +26,7 @@ in the second line of the timeout.py file to a higher value. Something like 7000
 
 # Important notes
 
-- You may need to run solo.sh a couple times as for whatever reason sometimes it doesn't split you off into your own lobby.
+- You may need to run solo.sh a couple times or change the timewaster variable as explained above.
 - I've only tested this on Fedora (my main distro) with steam version of gta 5.
 - The code may or may not work with rdo if you replace "GTA5.exe" with the rdo binary filename. Haven't bothered to play rdo
 for more then 5 min before I got bored.
