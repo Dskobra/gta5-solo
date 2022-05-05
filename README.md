@@ -21,7 +21,7 @@ Simply run solo.sh from a terminal and wait for completion. It should pause gta 
 Simply rerun if you find it putting other people in your empty lobby or merged you into another lobby.
 
 Sometimes counting to the default value of 1000000 isn't long enough to time out a session. Just change the timewaster variable
-to a higher value. Something like 7000000 which has been working better for myself lately.
+in the second line of the timeout.py file to a higher value. Something like 7000000 which has been working better for myself lately.
 
 
 # Important notes
