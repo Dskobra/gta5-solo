@@ -30,3 +30,7 @@ in the second line of the timeout.py file to a higher value. Something like 7000
 - I've only tested this on Fedora (my main distro) with steam version of gta 5.
 - The code may or may not work with rdo if you replace "GTA5.exe" with the rdo binary filename. Haven't bothered to play rdo
 for more then 5 min before I got bored.
+
+# NO LONGER NEEDED
+With the The Criminal Enterprises patch you can do heists and business activities in private lobbies (friends, solo, invite only etc). 
+Script might still be useful if for some reason there isn't something you can do in a private lobby and don't want people.
